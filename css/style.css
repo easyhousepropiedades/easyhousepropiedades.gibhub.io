@@ -14,7 +14,7 @@ header nav ul li {
 .cover {
   height: 565px;
 
-  background-image: url(https://cdn.glitch.global/740880f5-e823-4f58-a314-018245f6e8c9/Imagen%203%20fondo%20pagina.jpg?v=1664070234645);
+  background-image: url(imagenes/Imagen-fondo-pagina.jpg);
   color: pink;
   background-repeat: cover;
   background-position: center;
