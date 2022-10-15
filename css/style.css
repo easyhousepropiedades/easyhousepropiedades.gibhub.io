@@ -14,7 +14,7 @@ header nav ul li {
 .cover {
   height: 565px;
 
-  background-image: url(../imagenes/Imagen-fondo-pagina.jpg);
+  background-image: url("../imagenes/Imagen-fondo-pagina.jpg");
   color: pink;
   background-repeat: cover;
   background-position: center;
