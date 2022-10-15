@@ -10,7 +10,8 @@ header nav ul {
 
 header nav ul li {
   float:left;
-}
+
+<style>
 .cover{
   height: 565px;
   background-image: url(../imagenes/imgfondoppal.jpg);
@@ -19,7 +20,8 @@ header nav ul li {
   background-position: center;
   background-color: rgba(0, 0, 0, 0.3);
   background-blend-mode: darken;
-}
+</style>
+
 
 .cover-small{
   height:200px;
