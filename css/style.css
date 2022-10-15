@@ -11,9 +11,8 @@ header nav ul {
 header nav ul li {
   float:left;
 }
-.cover {
+.cover{
   height: 565px;
-
   background-image: url(imgfondoppal.jpg);
   color: pink;
   background-repeat: cover;
