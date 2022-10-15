@@ -12,8 +12,14 @@ header nav ul li {
   float:left;
 }
 .cover{
+  height: 565px;
   background-image: url(imgfondoppal.jpg);
-  }
+  color: pink;
+  background-repeat: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.3);
+  background-blend-mode: darken;
+}
 
 .cover-small{
   height:200px;
