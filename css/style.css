@@ -1,18 +1,23 @@
 /* CSS files add styling rules to your content */
 
-body {
+body 
+{
   margin: 0em;
   padding:0;
 }
-header nav ul {
+
+header nav ul 
+{
   overflow:hidden;
 }
 
-header nav ul li {
+header nav ul li 
+{
   float:left;
+}
 
-<style>
-.cover{
+.cover
+{
   height: 565px;
   background-image: url(../imagenes/imgfondoppal.jpg);
   color: pink;
@@ -20,22 +25,24 @@ header nav ul li {
   background-position: center;
   background-color: rgba(0, 0, 0, 0.3);
   background-blend-mode: darken;
-</style>
+}
 
-
-.cover-small{
+.cover-small
+{
   height:200px;
-    background-blend-mode:normal;
-  }
-.card {
+  background-blend-mode:normal;
+}
+
+.card 
+{
   border: 0 !important;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
     0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
-.cover-quienes {
+.cover-quienes 
+{
   height: 565px;
-
   background-image: url(https://cdn.glitch.global/740880f5-e823-4f58-a314-018245f6e8c9/Quienes%20somos.jpg?v=1664493964346);
   color: pink;
   background-size: cover;
