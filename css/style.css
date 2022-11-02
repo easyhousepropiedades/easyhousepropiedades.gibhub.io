@@ -61,7 +61,7 @@ header nav ul li
 	display:flex;
 }
 
-.stripe-container .card{
+.stripe-container{
 	width:300px;
 	flex-shrink:0;
 	margin-right:1rem;
