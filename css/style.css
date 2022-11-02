@@ -50,3 +50,19 @@ header nav ul li
   background-color: rgba(0, 0, 0, 0.3);
   background-blend-mode: darken;
 }
+
+.product-stripe{
+	overflow-x:scroll;
+	padding-top:1rem;
+	padding-top:1rem;
+}
+
+.stripe-container{
+	display:flex;
+}
+
+.stripe-container .card{
+	width:300px;
+	flex-shrink:0;
+	margin-right:1rem;
+}
